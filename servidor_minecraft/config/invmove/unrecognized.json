@@ -1,0 +1,16 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "net.minecraft.client.gui.screens.OptionsScreen": true,
+    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
+    "net.minecraft.client.gui.screens.controls.ControlsScreen": true,
+    "net.minecraft.client.gui.screens.controls.KeyBindsScreen": true,
+    "net.minecraftforge.client.gui.ModListScreen": true,
+    "me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI": true,
+    "de.maxhenkel.corpse.gui.CorpseInventoryScreen": true,
+    "com.mrcrayfish.configured.client.screen.ModConfigSelectionScreen": true
+  },
+  "hideBackground": {
+    "de.maxhenkel.corpse.gui.CorpseInventoryScreen": true
+  }
+}
